@@ -1,4 +1,4 @@
-# cmsplugin-contact-form
+# cmsplugin-contact-form-3.0.7
 
 Django-CMS contact form plugin with default Django email integration
 

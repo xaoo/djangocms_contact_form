@@ -3,13 +3,13 @@ from setuptools import setup, find_packages
 from cmsplugin_contact_form import __version__
 
 setup(
-    name='cmsplugin-contact-form',
+    name='cmsplugin-contact-form-3.0.7',
     version=__version__,
     description='A Django CMS plugin to create functional contact forms.',
     long_description_content_type='text/markdown',
     long_description=open('README.md').read(),
-    maintainer='Julia Rizza',
-    maintainer_email='contato@juliarizza.com',
+    maintainer='George Dicu',
+    maintainer_email='george.dicu@gmail.com',
     url='https://github.com/juliarizza/djangocms_contact_form',
     license='MIT',
     keywords='django djangocms plugin form contact email',
